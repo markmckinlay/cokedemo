@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Topic List Demo (mmckinlay)</title>
+        <script type="text/javascript" charset="utf-8" src="my-radian6.js"></script>
+        <script type="text/javascript">
+			var req;
+			function doGet() {
+				alert("doGet");
+				req = new XMLHttpRequest();
+				req.onreadystatechange = processReqChange;
+				//req.open("GET", "http://localhost/~mmckinlay/radian6/topics.xml", true);
+				req.open("GET", "topic_list.xml", true);
+				req.setRequestHeader("auth_user", "mmckinlay@modelmetrics.com");
+				req.setRequestHeader("auth_pass", "75db39324a88c42d9ff944f9a86d0141");
+				req.send();				
+			}
+			function processReqChange() {
+				//alert("processReqChange: " + " state:" + req.readyState + " status:" + req.status);
+			    // only if req shows "loaded"
+			    if (req.readyState == 4) {
+			        // only if "OK"
+			        if (req.status == 200) {
+						//alert("GOT IT");
+						var xmlDoc = req.responseXML;
+						doTopicList(xmlDoc);
+						//var name = xmlDoc.getElementsByTagName("name")[0];
+						//var search = xmlDoc.getElementsByTagName("search")[0];
+						//document.getElementById("display_name").innerHTML = name.firstChild.nodeValue;
+						//document.getElementById("display_search").innerHTML = search.firstChild.nodeValue;
+			        } else {
+			            alert("There was a problem retrieving the XML data:\n" +
+			                + "Status: " + req.status + " Text: " +req.statusText);
+			        }
+			    }
+			}
+			
+			function doTopicList(xmlDoc) {
+				
+				var tl = new TopicList();
+				tl.loadFromXml(xmlDoc);
+				var mydisplay = document.getElementById("mydisplay");
+				mydisplay.value = "Topics Found\n";
+				
+				for (var i=0; i<tl.topics.length; i++) {
+					topic = tl.topics[i]; // Topic object 
+					mydisplay.value += "Topic Name: " + topic.name + " Id: " + topic.id + "\n";
+				}
+			}
+		</script>
+	</head>
+    <body>
+  <div>
+	<button type="button" onclick="doGet()">Go</button>
+  </div>
+	<textarea id="mydisplay" cols="50" rows="20"></textarea>
+    </body>
+</html>

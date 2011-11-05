@@ -1,0 +1,882 @@
+<radian6_RiverOfNews_export>
+  <report_date>2011-11-03 21:01:19 +0000</report_date>
+  <user_name>mmckinlay@modelmetrics.com</user_name>
+  <RoN_sort_order>publishedDate</RoN_sort_order>
+  <article_count>25</article_count>
+  <total_article_count>25</total_article_count>
+  <article ID="36175249680">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Greenbrier Houses]]></headline>
+      <author fbid="100002484784386"><![CDATA[Greenbrier Houses]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Do you prefer Diet Coke or <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font>? Vote! | Real easy deals]]></content>
+      <external_id>100002484784386_311961805487331</external_id>
+    </description>
+    <source ID="387739852"><![CDATA[Post from Greenbrier Houses]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=311961805487331&id=100002484784386]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319980019000">2011-10-30 13:06:59 +0000</publish_date>
+    <harvest_date epoch="1319982137000">2011-10-30 13:42:17 +0000</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="36131768590">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Rune Bornøy]]></headline>
+      <author fbid="1581883722"><![CDATA[Rune Bornøy]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[<font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> Gaming Zone | Batman: Arkham Asylum Batman: Arkham Asylum var en super overraskelse. Ikke bare var det tro mot en elsket tegneserie, det var i tillegg et strålende spill! Oppfølgeren er rett rundt hjørnet, men hva husker du egentlig fra det første spillet?]]></content>
+      <external_id>1581883722_218245354908226</external_id>
+    </description>
+    <source ID="192783628"><![CDATA[Post from Rune Bornøy]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=218245354908226&id=1581883722]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319924588000">2011-10-29 22:43:08 +0100</publish_date>
+    <harvest_date epoch="1319930104000">2011-10-30 00:15:04 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="36045571329">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Anet Verweij]]></headline>
+      <author fbid="100000107965834"><![CDATA[Anet Verweij]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[You drink cola light? coca zero? other light products? watch this! De Gevaren van Aspartaam (Sucralose Optimel ViFit Crystal Clear Suikervrij <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> Light E951) Aspartaam is een kunstmatige zoetstof, aanwezig in meer dan 6000 produkten. De voedingsindustrie beweert dat aspartaam helpt om af te vallen...]]></content>
+      <external_id>100000107965834_304138896265674</external_id>
+    </description>
+    <source ID="137934967"><![CDATA[Post from Anet Verweij]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=304138896265674&id=100000107965834]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319842540000">2011-10-28 23:55:40 +0100</publish_date>
+    <harvest_date epoch="1319842915000">2011-10-29 00:01:55 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="36035243642">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Stephan Allman]]></headline>
+      <author fbid="1434741354"><![CDATA[Stephan Allman]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[A Touching Video fareal but true all d way BTB fa Life Blu-Tooth Story Check out this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>1434741354_284696878217254</external_id>
+    </description>
+    <source ID="213492122"><![CDATA[Post from Stephan Allman]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=284696878217254&id=1434741354]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319825971000">2011-10-28 19:19:31 +0100</publish_date>
+    <harvest_date epoch="1319834186000">2011-10-28 21:36:26 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35958737539">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Omar Ayman]]></headline>
+      <author fbid="100002026424962"><![CDATA[Omar Ayman]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[<font color="#FF0000"><b>COKE</b></font> <font color="#FF0000"><b>ZERO</b></font> DID THE IMPOSSIBLE - BALLERINA كوكاكولا زيرو <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>zero</b></font> regional campaign. <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> did the impossible. Same coke taste and zero sugar.]]></content>
+      <external_id>100002026424962_120586431383311</external_id>
+    </description>
+    <source ID="333620843"><![CDATA[Post from Omar Ayman]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=120586431383311&id=100002026424962]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319749432000">2011-10-27 22:03:52 +0100</publish_date>
+    <harvest_date epoch="1319762496000">2011-10-28 01:41:36 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35918333099">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Emmanuel Lasat]]></headline>
+      <author fbid="1028227417"><![CDATA[Emmanuel Lasat]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Lee wint een PS3 dankzij <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> Gaming Julie en Lee namen het tegen elkaar op tijdens een spelletje digitaal volleybal. Lee bleek net iets beter en mag met een PlayStation 3 naar huis, danzkij <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font>!]]></content>
+      <external_id>1028227417_249328465115635</external_id>
+    </description>
+    <source ID="382644735"><![CDATA[Post from Emmanuel Lasat]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=249328465115635&id=1028227417]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319728419000">2011-10-27 16:13:39 +0100</publish_date>
+    <harvest_date epoch="1319729816000">2011-10-27 16:36:56 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35705231950">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Nathan Sanford]]></headline>
+      <author fbid="100000804888706"><![CDATA[Nathan Sanford]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[My <font color="#FF0000"><b>COKE</b></font> <font color="#FF0000"><b>Zero</b></font> Photo Check out my <font color="#FF0000"><b>COKE</b></font> <font color="#FF0000"><b>Zero</b></font> photo]]></content>
+      <external_id>100000804888706_277024065662019</external_id>
+    </description>
+    <source ID="145795003"><![CDATA[Post from Nathan Sanford]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=277024065662019&id=100000804888706]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319497069000">2011-10-24 23:57:49 +0100</publish_date>
+    <harvest_date epoch="1319520932000">2011-10-25 06:35:32 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35611342440">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Everett Stewart]]></headline>
+      <author fbid="1278469835"><![CDATA[Everett Stewart]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[My nigga Guapo Clarke goin in on em...show love Detroit...s/o BK all DAY! Guapo Toe Tappy Remix Check out this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>1278469835_232082456852912</external_id>
+    </description>
+    <source ID="379061087"><![CDATA[Post from Everett Stewart]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=232082456852912&id=1278469835]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319427710000">2011-10-24 04:41:50 +0100</publish_date>
+    <harvest_date epoch="1319430396000">2011-10-24 05:26:36 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35548375973">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Amir Kanmat]]></headline>
+      <author fbid="1458480631"><![CDATA[Amir Kanmat]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Pepsi MAX -- Display King (feat. Snoop Dogg) The Pepsi Max driver and the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> driver meet once again--this time at a supercenter. The battle for the #1 zero-calorie soda begins as each driver atte...]]></content>
+      <external_id>1458480631_264037840305899</external_id>
+    </description>
+    <source ID="373184952"><![CDATA[Post from Amir Kanmat]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=264037840305899&id=1458480631]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319369868000">2011-10-23 12:37:48 +0100</publish_date>
+    <harvest_date epoch="1319377458000">2011-10-23 14:44:18 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35548375926">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Tomer Shani]]></headline>
+      <author fbid="1135586383"><![CDATA[Tomer Shani]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Pepsi MAX -- Display King (feat. Snoop Dogg) The Pepsi Max driver and the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> driver meet once again--this time at a supercenter. The battle for the #1 zero-calorie soda begins as each driver atte...]]></content>
+      <external_id>1135586383_177215785696897</external_id>
+    </description>
+    <source ID="92456806"><![CDATA[Post from Tomer Shani]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=177215785696897&id=1135586383]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319367604000">2011-10-23 12:00:04 +0100</publish_date>
+    <harvest_date epoch="1319377458000">2011-10-23 14:44:18 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35529706121">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Andrea Piccoli]]></headline>
+      <author fbid="868050528"><![CDATA[Andrea Piccoli]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[ Toffee Pie £3.95 Banoffee Pie £3.95 Apple Pie £3.95 Chocolate Donuts £3.95 Drinks Cans £0.85 Select from Coke, pepsi, diet coke fanta twist, 7up,orange tango & water <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> £0.85 Bottle £2.20 Select from coke , Pepsi, fanta diet coke, 7up, sparkling water & still water Salads Coleslaw £2.95 Green Salad £4.25...]]></content>
+      <external_id>868050528_277376628962988</external_id>
+    </description>
+    <source ID="371092850"><![CDATA[Post from Andrea Piccoli]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=277376628962988&id=868050528]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>5</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319348879000">2011-10-23 06:47:59 +0100</publish_date>
+    <harvest_date epoch="1319352587000">2011-10-23 07:49:47 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35441538349">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Jennifer Lindner]]></headline>
+      <author fbid="1540323738"><![CDATA[Jennifer Lindner]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[I can see it without shaking my head. But I am sooooo high off <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> and Valium...ooops, was that out loud? Wall Photos SHAKE YOUR HEAD and you can see John Lennon! Press 'Like' and 'Share' if you see him! :D :D ♥ ♥ &lt;3]]></content>
+      <external_id>1540323738_305069596177223</external_id>
+    </description>
+    <source ID="95747249"><![CDATA[Post from Jennifer Lindner]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=305069596177223&id=1540323738]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319258689000">2011-10-22 05:44:49 +0100</publish_date>
+    <harvest_date epoch="1319258927000">2011-10-22 05:48:47 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35410230675">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Mya Hairston]]></headline>
+      <author fbid="100001874705147"><![CDATA[Mya Hairston]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[SINCE I FINALLY FOUND THE VIDEO....CHECK THIS VIDEO OUT YALL....GOTTA GET DANVILLE ON THE MAP FORREAL...WIT MY BUDDY KEIJ IN IT DOIN HIS THING....CHECK....IT.....OUT!!!!! IT'S POSSIBLE (Coke Zero Ad campaign) PLEASE READ!!! This is a little something I put together with my boyfriend, Gerald [Keith] Harris (th...]]></content>
+      <external_id>100001874705147_166774270080408</external_id>
+    </description>
+    <source ID="361647172"><![CDATA[Post from Mya Hairston]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=166774270080408&id=100001874705147]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319229891000">2011-10-21 21:44:51 +0100</publish_date>
+    <harvest_date epoch="1319230170000">2011-10-21 21:49:30 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35390683503">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Oana Alexandra Candea]]></headline>
+      <author fbid="1483383285"><![CDATA[Oana Alexandra Candea]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Make it possible ! is what the new global campaign from Coca Cola tell us. The Coke ' Mission Impossible ' engage us into thrilling action and risk-taking. - Thumbs up, again, for Coca Cola ! <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font>: Mission Impossible - Ghost Protocol part of a global cross-promotional campaign.]]></content>
+      <external_id>1483383285_164282410331295</external_id>
+    </description>
+    <source ID="156987570"><![CDATA[Post from Oana Alexandra Candea]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=164282410331295&id=1483383285]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319213299000">2011-10-21 17:08:19 +0100</publish_date>
+    <harvest_date epoch="1319213524000">2011-10-21 17:12:04 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35384812525">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Felix Lieuw A Len]]></headline>
+      <author fbid="100001080677419"><![CDATA[Felix Lieuw A Len]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[<font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> Gaming Zone | HOME <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> Gaming Zone | Kijk hier voor het laatste game nieuws, reviews, video's, galleries en nog veel meer]]></content>
+      <external_id>100001080677419_129667850470479</external_id>
+    </description>
+    <source ID="114999448"><![CDATA[Post from Felix Lieuw A Len]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=129667850470479&id=100001080677419]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>11</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319208481000">2011-10-21 15:48:01 +0100</publish_date>
+    <harvest_date epoch="1319208780000">2011-10-21 15:53:00 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35382875840">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Delores Minear]]></headline>
+      <author fbid="1437833051"><![CDATA[Delores Minear]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[ <font color="#FF0000"><b>coke</b></font> <font color="#FF0000"><b>zero</b></font> or diet pepis later on durning day well weather up here michgan usa and ontario canada overcast some parts of area or raining cooler temp now 36 windchill 32 shower today temp be 48 weekend sunny tewmp be 48 or 55 next few days sunny chance shower temp be 40 or 50 how weather were u are y'all WATCH...]]></content>
+      <external_id>1437833051_264169483627921</external_id>
+    </description>
+    <source ID="263518817"><![CDATA[Post from Delores Minear]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=264169483627921&id=1437833051]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319207142000">2011-10-21 15:25:42 +0100</publish_date>
+    <harvest_date epoch="1319207253000">2011-10-21 15:27:33 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35323214302">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Alexander Vaišvilas Lubin Jr]]></headline>
+      <author fbid="100000376871729"><![CDATA[Alexander Vaišvilas Lubin Jr]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Aspartame, Brain Cancer & the FDA Approval Process (Sugarfree Light Diet <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> E951) - New - Na The approval of the artificial sweetener aspartame (E951) was the most contested in FDA history. The approval was not based on any scientific grounds but was granted due to political and financial pre]]></content>
+      <external_id>100000376871729_275698265798506</external_id>
+    </description>
+    <source ID="91872208"><![CDATA[Post from Alexander Vaišvilas Lubin Jr]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=275698265798506&id=100000376871729]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319142009000">2011-10-20 21:20:09 +0100</publish_date>
+    <harvest_date epoch="1319143667000">2011-10-20 21:47:47 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35302536949">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Cherylle HeartofaBuddha Bowers-Bailey]]></headline>
+      <author fbid="100000720471681"><![CDATA[Cherylle HeartofaBuddha Bowers-Bailey]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[The Dangers of Aspartame (Artificial Sweeteners Sugarfree Diet <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> No Sugar Added E951) Aspartame (E951) is an artificial sweetener, used in over 6000 products. The food industry claims that aspartame helps in losing weight, but why is obesity t...]]></content>
+      <external_id>100000720471681_113526582090787</external_id>
+    </description>
+    <source ID="130045712"><![CDATA[Post from Cherylle HeartofaBuddha Bowers-Bailey]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=113526582090787&id=100000720471681]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319120044000">2011-10-20 15:14:04 +0100</publish_date>
+    <harvest_date epoch="1319124947000">2011-10-20 16:35:47 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35256018198">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Brandon Clark]]></headline>
+      <author fbid="796637136"><![CDATA[Brandon Clark]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Might be unmanly to admit it, but I loved this movie. I thought this scene was appropriate to share here... :D Easy A "<font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font>"]]></content>
+      <external_id>796637136_266770630028298</external_id>
+    </description>
+    <source ID="384935222"><![CDATA[Post from Brandon Clark]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=266770630028298&id=796637136]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319064208000">2011-10-19 23:43:28 +0100</publish_date>
+    <harvest_date epoch="1319072435000">2011-10-20 02:00:35 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35252800400">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Ricky Lucas]]></headline>
+      <author fbid="100001340645230"><![CDATA[Ricky Lucas]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[I wanna be a Rockstar Check out the feedback on this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>100001340645230_136917293074615</external_id>
+    </description>
+    <source ID="133980122"><![CDATA[Post from Ricky Lucas]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=136917293074615&id=100001340645230]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319055522000">2011-10-19 21:18:42 +0100</publish_date>
+    <harvest_date epoch="1319069930000">2011-10-20 01:18:50 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35252800392">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from James Chilcote]]></headline>
+      <author fbid="100001987154575"><![CDATA[James Chilcote]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[I wanna be a Rockstar Check out the feedback on this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>100001987154575_278342628863940</external_id>
+    </description>
+    <source ID="238568371"><![CDATA[Post from James Chilcote]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=278342628863940&id=100001987154575]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319055465000">2011-10-19 21:17:45 +0100</publish_date>
+    <harvest_date epoch="1319069930000">2011-10-20 01:18:50 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35252801927">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Camille Rivera]]></headline>
+      <author fbid="100001312672022"><![CDATA[Camille Rivera]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[HAHAHAHAHHA I wanna be a Rockstar Check out the feedback on this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>100001312672022_248542518527040</external_id>
+    </description>
+    <source ID="151579356"><![CDATA[Post from Camille Rivera]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=248542518527040&id=100001312672022]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319052095000">2011-10-19 20:21:35 +0100</publish_date>
+    <harvest_date epoch="1319069930000">2011-10-20 01:18:50 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35252800898">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Moni Adel]]></headline>
+      <author fbid="844573258"><![CDATA[Moni Adel]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[I wanna be a Rockstar Check out the feedback on this audition tape from the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> open casting call to find the star of their next global TV commercial.]]></content>
+      <external_id>844573258_137187303049883</external_id>
+    </description>
+    <source ID="77196286"><![CDATA[Post from Moni Adel]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=137187303049883&id=844573258]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319042403000">2011-10-19 17:40:03 +0100</publish_date>
+    <harvest_date epoch="1319069930000">2011-10-20 01:18:50 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35202025787">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Maurice Tomlinson]]></headline>
+      <author fbid="100000877943163"><![CDATA[Maurice Tomlinson]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[ Wednesday | October 19, 2011 THE EDITOR, Sir: In response to complaints about the performance of anti-gay lyrics at the <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> 'Live on the Waterfront' music event held in April, I would like to express our disappointment that a programme intended to celebrate the heritage......]]></content>
+      <external_id>100000877943163_147697368660958</external_id>
+    </description>
+    <source ID="162270835"><![CDATA[Post from Maurice Tomlinson]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=147697368660958&id=100000877943163]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1319026000000">2011-10-19 13:06:40 +0100</publish_date>
+    <harvest_date epoch="1319026049000">2011-10-19 13:07:29 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+  <article ID="35148662122">
+    <description charset="UTF-8">
+      <headline><![CDATA[Post from Kirby Spudnik]]></headline>
+      <author fbid="100001009363488"><![CDATA[Kirby Spudnik]]></author>
+      <recipient><![CDATA[None]]></recipient>
+      <content><![CDATA[Check out the skateboarding Bulldog! <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> "And" <font color="#FF0000"><b>Coke</b></font> <font color="#FF0000"><b>Zero</b></font> "And"]]></content>
+      <external_id>100001009363488_299586913400792</external_id>
+    </description>
+    <source ID="96006692"><![CDATA[Post from Kirby Spudnik]]></source>
+    <host><![CDATA[www.facebook.com]]></host>
+    <article_url><![CDATA[http://www.facebook.com/permalink.php?story_fbid=299586913400792&id=100001009363488]]></article_url>
+    <media_provider>facebook.com Discussions</media_provider>
+    <media_type_id>12</media_type_id>
+    <language_id>1</language_id>
+    <spam_rating>0</spam_rating>
+    <publish_date epoch="1318969048000">2011-10-18 21:17:28 +0100</publish_date>
+    <harvest_date epoch="1318970274000">2011-10-18 21:37:54 +0100</harvest_date>
+    <PostDynamicsIteration>
+      <PostDynamicsDefinition>
+        <fieldId>21</fieldId>
+        <label>Sentiment</label>
+        <shortLabel>S</shortLabel>
+        <sortOrder>1</sortOrder>
+        <value><![CDATA[296954,0]]></value>
+        <exceptionValue>296954,false</exceptionValue>
+        <reportValue>Neutral</reportValue>
+        <tooltip/>
+      </PostDynamicsDefinition>
+      <reportFormatedData><![CDATA[<span style="font-weight:bold; color: #FF9900; font-size: 11pt"> Sentiment:  </span>Neutral  ]]></reportFormatedData>
+    </PostDynamicsIteration>
+    <workflow_details>
+      <workflow_current_details/>
+      <Workflow/>
+    </workflow_details>
+  </article>
+</radian6_RiverOfNews_export>

@@ -1,0 +1,28 @@
+<widgetOutput>
+  <dataitems timespan="Fixed Timespan" postcount="15628">
+    <dataitem colour="0x66CC33">
+      <topname><![CDATA[Competitors]]></topname>
+      <name><![CDATA[Competitors]]></name>
+      <query><![CDATA["GROUPTYPE_2"]]></query>
+      <value>
+        <segvalue><![CDATA[-1]]></segvalue>
+        <label><![CDATA[None]]></label>
+        <count>5707</count>
+        <isSphinxLimit>false</isSphinxLimit>
+      </value>
+    </dataitem>
+    <dataitem colour="0x66CC33">
+      <topname><![CDATA[Brands]]></topname>
+      <name><![CDATA[Brands]]></name>
+      <query><![CDATA["GROUPTYPE_3"]]></query>
+      <value>
+        <segvalue><![CDATA[-1]]></segvalue>
+        <label><![CDATA[None]]></label>
+        <count>9921</count>
+        <isSphinxLimit>false</isSphinxLimit>
+      </value>
+    </dataitem>
+    <segmentationLabels><![CDATA[None]]></segmentationLabels>
+    <status>complete</status>
+  </dataitems>
+</widgetOutput>

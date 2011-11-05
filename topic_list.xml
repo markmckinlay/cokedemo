@@ -1,0 +1,321 @@
+<topicFilters>
+  <topicFilter>
+    <name><![CDATA[Coke Zero Only]]></name>
+    <public>0</public>
+    <status>2</status>
+    <estimateVolume>21000</estimateVolume>
+    <competeEnabled>0</competeEnabled>
+    <topicFilterTypeId>1</topicFilterTypeId>
+    <bCode><![CDATA[]]></bCode>
+    <creatorId>61055</creatorId>
+    <creatorName><![CDATA[Mark McKinley]]></creatorName>
+    <creatorEmail>mmckinlay@modelmetrics.com</creatorEmail>
+    <createDate>20111103</createDate>
+    <topicFilterId>296954</topicFilterId>
+    <inboundOnTopicLinksCount>0</inboundOnTopicLinksCount>
+    <languages/>
+    <mediaType/>
+    <projects/>
+    <regions/>
+    <deactivationDate>null</deactivationDate>
+    <evp>false</evp>
+    <topicFilterTier>
+      <topicFilterTierId>2</topicFilterTierId>
+      <name>Tier 2</name>
+      <lowerTrafficLimit>10001</lowerTrafficLimit>
+      <upperTrafficLimit>25000</upperTrafficLimit>
+    </topicFilterTier>
+    <number_queries>1</number_queries>
+    <filterGroups>
+      <filterGroup>
+        <filterGroupId>727037</filterGroupId>
+        <name><![CDATA[Coke Zero]]></name>
+        <filterGroupTypeId>3</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["coke zero"]]></query>
+            <filterQueryId>6874990</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+    </filterGroups>
+    <sentimentQueries/>
+    <includeSourceFilterList>
+      <filterIds/>
+    </includeSourceFilterList>
+    <excludeSourceFilterList>
+      <filterIds/>
+    </excludeSourceFilterList>
+    <includeAllSourceFilterList>
+      <filterIds/>
+    </includeAllSourceFilterList>
+  </topicFilter>
+  <topicFilter>
+    <name><![CDATA[Coke Zero]]></name>
+    <public>0</public>
+    <status>2</status>
+    <estimateVolume>135300</estimateVolume>
+    <competeEnabled>0</competeEnabled>
+    <topicFilterTypeId>1</topicFilterTypeId>
+    <bCode><![CDATA[]]></bCode>
+    <creatorId>61055</creatorId>
+    <creatorName><![CDATA[Mark McKinley]]></creatorName>
+    <creatorEmail>mmckinlay@modelmetrics.com</creatorEmail>
+    <createDate>20111103</createDate>
+    <topicFilterId>296874</topicFilterId>
+    <inboundOnTopicLinksCount>0</inboundOnTopicLinksCount>
+    <languages/>
+    <mediaType/>
+    <projects/>
+    <regions/>
+    <deactivationDate>null</deactivationDate>
+    <evp>false</evp>
+    <topicFilterTier>
+      <topicFilterTierId>5</topicFilterTierId>
+      <name>Tier 5</name>
+      <lowerTrafficLimit>100001</lowerTrafficLimit>
+      <upperTrafficLimit>150000</upperTrafficLimit>
+    </topicFilterTier>
+    <number_queries>14</number_queries>
+    <filterGroups>
+      <filterGroup>
+        <filterGroupId>726739</filterGroupId>
+        <name><![CDATA[Tab cola]]></name>
+        <filterGroupTypeId>1</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["cola"]]></query>
+            <filterQueryId>6871961</filterQueryId>
+            <filterQueryTypeId>2</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["soda"]]></query>
+            <filterQueryId>6871962</filterQueryId>
+            <filterQueryTypeId>2</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["tab"]]></query>
+            <filterQueryId>6871960</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726738</filterGroupId>
+        <name><![CDATA[Diet Pepsi]]></name>
+        <filterGroupTypeId>1</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["diet pepsi"]]></query>
+            <filterQueryId>6871964</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726735</filterGroupId>
+        <name><![CDATA[Pepsi One]]></name>
+        <filterGroupTypeId>1</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["pepsi one"]]></query>
+            <filterQueryId>6871963</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726733</filterGroupId>
+        <name><![CDATA[Pepsi Max]]></name>
+        <filterGroupTypeId>2</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["pepsi max"]]></query>
+            <filterQueryId>6871965</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726728</filterGroupId>
+        <name><![CDATA[Diet Coke]]></name>
+        <filterGroupTypeId>1</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["diet coke"]]></query>
+            <filterQueryId>6871816</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726717</filterGroupId>
+        <name><![CDATA[Diet cola]]></name>
+        <filterGroupTypeId>4</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["diet cola"]]></query>
+            <filterQueryId>6871787</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726694</filterGroupId>
+        <name><![CDATA[Competition]]></name>
+        <filterGroupTypeId>1</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["pepsi max"]]></query>
+            <filterQueryId>6871784</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["diet pepsi"]]></query>
+            <filterQueryId>6871783</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["tab cola"]]></query>
+            <filterQueryId>6871786</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["diet coke"]]></query>
+            <filterQueryId>6871785</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["pepsi one"]]></query>
+            <filterQueryId>6871782</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>726673</filterGroupId>
+        <name><![CDATA[Coke Zero]]></name>
+        <filterGroupTypeId>3</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["coke zero"]]></query>
+            <filterQueryId>6871634</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+    </filterGroups>
+    <sentimentQueries/>
+    <includeSourceFilterList>
+      <filterIds/>
+    </includeSourceFilterList>
+    <excludeSourceFilterList>
+      <filterIds/>
+    </excludeSourceFilterList>
+    <includeAllSourceFilterList>
+      <filterIds/>
+    </includeAllSourceFilterList>
+  </topicFilter>
+  <topicFilter>
+    <name><![CDATA[Milano Cookies 2]]></name>
+    <public>0</public>
+    <status>2</status>
+    <estimateVolume>9800</estimateVolume>
+    <competeEnabled>0</competeEnabled>
+    <topicFilterTypeId>1</topicFilterTypeId>
+    <bCode><![CDATA[]]></bCode>
+    <creatorId>61055</creatorId>
+    <creatorName><![CDATA[Mark McKinley]]></creatorName>
+    <creatorEmail>mmckinlay@modelmetrics.com</creatorEmail>
+    <createDate>20111103</createDate>
+    <topicFilterId>296666</topicFilterId>
+    <inboundOnTopicLinksCount>0</inboundOnTopicLinksCount>
+    <languages/>
+    <mediaType/>
+    <projects/>
+    <regions/>
+    <deactivationDate>null</deactivationDate>
+    <evp>false</evp>
+    <topicFilterTier>
+      <topicFilterTierId>1</topicFilterTierId>
+      <name>Tier 1</name>
+      <lowerTrafficLimit>0</lowerTrafficLimit>
+      <upperTrafficLimit>10000</upperTrafficLimit>
+    </topicFilterTier>
+    <number_queries>8</number_queries>
+    <filterGroups>
+      <filterGroup>
+        <filterGroupId>725855</filterGroupId>
+        <name><![CDATA[Industry]]></name>
+        <filterGroupTypeId>4</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["http"]]></query>
+            <filterQueryId>6859203</filterQueryId>
+            <filterQueryTypeId>1</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["chocolate cookies"]]></query>
+            <filterQueryId>6859202</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>725848</filterGroupId>
+        <name><![CDATA[Competition]]></name>
+        <filterGroupTypeId>2</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["chocolate cookies"~10]]></query>
+            <filterQueryId>6859196</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["kellogg"]]></query>
+            <filterQueryId>6859199</filterQueryId>
+            <filterQueryTypeId>2</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["crackers"]]></query>
+            <filterQueryId>6859197</filterQueryId>
+            <filterQueryTypeId>1</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["kraft"]]></query>
+            <filterQueryId>6859198</filterQueryId>
+            <filterQueryTypeId>2</filterQueryTypeId>
+          </filterQuery>
+          <filterQuery>
+            <query><![CDATA["hostess"]]></query>
+            <filterQueryId>6859200</filterQueryId>
+            <filterQueryTypeId>2</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+      <filterGroup>
+        <filterGroupId>725845</filterGroupId>
+        <name><![CDATA[Brand]]></name>
+        <filterGroupTypeId>3</filterGroupTypeId>
+        <filterQueries>
+          <filterQuery>
+            <query><![CDATA["pepperidge" AND "milano"]]></query>
+            <filterQueryId>6859201</filterQueryId>
+            <filterQueryTypeId>0</filterQueryTypeId>
+          </filterQuery>
+        </filterQueries>
+      </filterGroup>
+    </filterGroups>
+    <sentimentQueries/>
+    <includeSourceFilterList>
+      <filterIds/>
+    </includeSourceFilterList>
+    <excludeSourceFilterList>
+      <filterIds/>
+    </excludeSourceFilterList>
+    <includeAllSourceFilterList>
+      <filterIds/>
+    </includeAllSourceFilterList>
+  </topicFilter>
+</topicFilters>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Topic Trends Demo (Coke Zero)</title>
+        <script type="text/javascript" charset="utf-8" src="my-radian6.js"></script>
+        <script type="text/javascript">
+			var req;
+			function doGet() {
+				req = new XMLHttpRequest();
+				req.onreadystatechange = processReqChange;
+				//req.open("GET", "http://localhost/~mmckinlay/radian6/topics.xml", true);
+				req.open("GET", "coke_v_pepsi_trends.xml", true);
+				req.setRequestHeader("auth_user", "mmckinlay@modelmetrics.com");
+				req.setRequestHeader("auth_pass", "75db39324a88c42d9ff944f9a86d0141");
+				req.send();				
+			}
+			function processReqChange() {
+				//alert("processReqChange: " + " state:" + req.readyState + " status:" + req.status);
+			    // only if req shows "loaded"
+			    if (req.readyState == 4) {
+			        // only if "OK"
+			        if (req.status == 200) {
+						//alert("GOT IT");
+						var xmlDoc = req.responseXML;
+						doTopicTrends(xmlDoc);
+						//var name = xmlDoc.getElementsByTagName("name")[0];
+						//var search = xmlDoc.getElementsByTagName("search")[0];
+						//document.getElementById("display_name").innerHTML = name.firstChild.nodeValue;
+						//document.getElementById("display_search").innerHTML = search.firstChild.nodeValue;
+			        } else {
+			            alert("There was a problem retrieving the XML data:\n" +
+			                + "Status: " + req.status + " Text: " +req.statusText);
+			        }
+			    }
+			}
+			
+			function doTopicTrends(xmlDoc) {
+				
+				var tt = new TopicTrends();
+				tt.loadFromXml(xmlDoc);
+				var mydisplay = document.getElementById("mydisplay");
+				mydisplay.value = "Trends Found\n";
+				
+				for (var i=0; i<tt.data.length; i++) {
+					datum = tt.data[i]; // Datum object 
+					mydisplay.value += "Name: " + datum.name + " Value: " + datum.value + " Label: " + datum.label + " Color: " + datum.color + "\n";
+				}
+			}
+		</script>
+	</head>
+    <body>
+  <div>
+	<button type="button" onclick="doGet()">Go</button>
+  </div>
+	<textarea id="mydisplay" cols="50" rows="20"></textarea>
+    </body>
+</html>

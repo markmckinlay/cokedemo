@@ -1,0 +1,54 @@
+<widgetOutput>
+  <dataitems>
+    <dataitem>
+      <graphData bucketSizeInMS="86400000" postCounts="Brands25">
+        <sphinxInfo>
+          <info word="&quot;GROUPTYPE_3&quot;" isSphinxLimit="false"/>
+        </sphinxInfo>
+        <dataPoint timestamp="1318914000000" actual="18 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">1</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319000400000" actual="19 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">6</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319086800000" actual="20 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">2</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319173200000" actual="21 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">5</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319259600000" actual="22 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">0</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319346000000" actual="23 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">4</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319432400000" actual="24 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">1</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319518800000" actual="25 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">0</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319605200000" actual="26 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">0</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319691600000" actual="27 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">2</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319778000000" actual="28 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">2</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319864400000" actual="29 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">1</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319950800000" actual="30 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">1</plot>
+        </dataPoint>
+        <dataPoint timestamp="1320037200000" actual="31 Oct 2011 05:00:00 GMT">
+          <plot word="Brands">0</plot>
+        </dataPoint>
+      </graphData>
+      <status>complete</status>
+    </dataitem>
+  </dataitems>
+</widgetOutput>

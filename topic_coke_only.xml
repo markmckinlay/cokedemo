@@ -1,0 +1,52 @@
+<topicFilter>
+  <name><![CDATA[Coke Zero Only]]></name>
+  <public>0</public>
+  <status>2</status>
+  <estimateVolume>21000</estimateVolume>
+  <competeEnabled>0</competeEnabled>
+  <topicFilterTypeId>1</topicFilterTypeId>
+  <bCode><![CDATA[]]></bCode>
+  <creatorId>61055</creatorId>
+  <creatorName><![CDATA[Mark McKinley]]></creatorName>
+  <creatorEmail>mmckinlay@modelmetrics.com</creatorEmail>
+  <createDate>20111103</createDate>
+  <topicFilterId>296954</topicFilterId>
+  <inboundOnTopicLinksCount>0</inboundOnTopicLinksCount>
+  <languages/>
+  <mediaType/>
+  <projects/>
+  <regions/>
+  <deactivationDate>null</deactivationDate>
+  <evp>false</evp>
+  <topicFilterTier>
+    <topicFilterTierId>2</topicFilterTierId>
+    <name>Tier 2</name>
+    <lowerTrafficLimit>10001</lowerTrafficLimit>
+    <upperTrafficLimit>25000</upperTrafficLimit>
+  </topicFilterTier>
+  <number_queries>1</number_queries>
+  <filterGroups>
+    <filterGroup>
+      <filterGroupId>727037</filterGroupId>
+      <name><![CDATA[Coke Zero]]></name>
+      <filterGroupTypeId>3</filterGroupTypeId>
+      <filterQueries>
+        <filterQuery>
+          <query><![CDATA["coke zero"]]></query>
+          <filterQueryId>6874990</filterQueryId>
+          <filterQueryTypeId>0</filterQueryTypeId>
+        </filterQuery>
+      </filterQueries>
+    </filterGroup>
+  </filterGroups>
+  <sentimentQueries/>
+  <includeSourceFilterList>
+    <filterIds/>
+  </includeSourceFilterList>
+  <excludeSourceFilterList>
+    <filterIds/>
+  </excludeSourceFilterList>
+  <includeAllSourceFilterList>
+    <filterIds/>
+  </includeAllSourceFilterList>
+</topicFilter>

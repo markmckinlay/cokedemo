@@ -1,0 +1,201 @@
+<widgetOutput>
+  <dataitems>
+    <dataitem>
+      <graphData bucketSizeInMS="86400000" postCounts="Unknown444Philippines83Canada256Singapore69Germany86New Zealand87United Kingdom357Australia306South Africa82United States7561">
+        <sphinxInfo>
+          <info word="175" isSphinxLimit="false"/>
+          <info word="156,46,60,106,111,219,32,213,143,184,65,134,75,208,45,232,103,177,23,162,118,110,109,108,85,248,231,226,171,81,30,16,178,166,115,102,99,74,241,222,198,112,104,86,73,18,247,240,237,203,196,180,174,168,150,141,137,128,127,120,100,83,57,20,13,9" isSphinxLimit="null"/>
+          <info word="40" isSphinxLimit="false"/>
+          <info word="201" isSphinxLimit="false"/>
+          <info word="82" isSphinxLimit="false"/>
+          <info word="159" isSphinxLimit="false"/>
+          <info word="234" isSphinxLimit="false"/>
+          <info word="15" isSphinxLimit="false"/>
+          <info word="206" isSphinxLimit="false"/>
+          <info word="235" isSphinxLimit="false"/>
+        </sphinxInfo>
+        <segData>
+          <seg word="Philippines" segValue="175"/>
+          <seg word="Other" segValue="156,46,60,106,111,219,32,213,143,184,65,134,75,208,45,232,103,177,23,162,118,110,109,108,85,248,231,226,171,81,30,16,178,166,115,102,99,74,241,222,198,112,104,86,73,18,247,240,237,203,196,180,174,168,150,141,137,128,127,120,100,83,57,20,13,9"/>
+          <seg word="Canada" segValue="40"/>
+          <seg word="Singapore" segValue="201"/>
+          <seg word="Germany" segValue="82"/>
+          <seg word="New Zealand" segValue="159"/>
+          <seg word="United Kingdom" segValue="234"/>
+          <seg word="Australia" segValue="15"/>
+          <seg word="South Africa" segValue="206"/>
+          <seg word="United States" segValue="235"/>
+        </segData>
+        <dataPoint timestamp="1318906800000" actual="18 Oct 2011 03:00:00 GMT">
+          <plot word="Other">35</plot>
+          <plot word="Philippines">8</plot>
+          <plot word="Canada">23</plot>
+          <plot word="Singapore">5</plot>
+          <plot word="Germany">4</plot>
+          <plot word="New Zealand">8</plot>
+          <plot word="United Kingdom">27</plot>
+          <plot word="Australia">25</plot>
+          <plot word="South Africa">2</plot>
+          <plot word="United States">649</plot>
+        </dataPoint>
+        <dataPoint timestamp="1318993200000" actual="19 Oct 2011 03:00:00 GMT">
+          <plot word="Other">45</plot>
+          <plot word="Philippines">10</plot>
+          <plot word="Canada">24</plot>
+          <plot word="Singapore">3</plot>
+          <plot word="Germany">6</plot>
+          <plot word="New Zealand">1</plot>
+          <plot word="United Kingdom">29</plot>
+          <plot word="Australia">39</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">837</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319079600000" actual="20 Oct 2011 03:00:00 GMT">
+          <plot word="Other">30</plot>
+          <plot word="Philippines">3</plot>
+          <plot word="Canada">35</plot>
+          <plot word="Singapore">9</plot>
+          <plot word="Germany">8</plot>
+          <plot word="New Zealand">12</plot>
+          <plot word="United Kingdom">36</plot>
+          <plot word="Australia">22</plot>
+          <plot word="South Africa">1</plot>
+          <plot word="United States">598</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319166000000" actual="21 Oct 2011 03:00:00 GMT">
+          <plot word="Other">33</plot>
+          <plot word="Philippines">9</plot>
+          <plot word="Canada">10</plot>
+          <plot word="Singapore">0</plot>
+          <plot word="Germany">3</plot>
+          <plot word="New Zealand">3</plot>
+          <plot word="United Kingdom">29</plot>
+          <plot word="Australia">29</plot>
+          <plot word="South Africa">3</plot>
+          <plot word="United States">627</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319252400000" actual="22 Oct 2011 03:00:00 GMT">
+          <plot word="Other">53</plot>
+          <plot word="Philippines">4</plot>
+          <plot word="Canada">32</plot>
+          <plot word="Singapore">4</plot>
+          <plot word="Germany">9</plot>
+          <plot word="New Zealand">7</plot>
+          <plot word="United Kingdom">33</plot>
+          <plot word="Australia">26</plot>
+          <plot word="South Africa">1</plot>
+          <plot word="United States">537</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319338800000" actual="23 Oct 2011 03:00:00 GMT">
+          <plot word="Other">20</plot>
+          <plot word="Philippines">6</plot>
+          <plot word="Canada">15</plot>
+          <plot word="Singapore">14</plot>
+          <plot word="Germany">2</plot>
+          <plot word="New Zealand">5</plot>
+          <plot word="United Kingdom">19</plot>
+          <plot word="Australia">21</plot>
+          <plot word="South Africa">3</plot>
+          <plot word="United States">449</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319425200000" actual="24 Oct 2011 03:00:00 GMT">
+          <plot word="Other">37</plot>
+          <plot word="Philippines">7</plot>
+          <plot word="Canada">11</plot>
+          <plot word="Singapore">2</plot>
+          <plot word="Germany">12</plot>
+          <plot word="New Zealand">10</plot>
+          <plot word="United Kingdom">35</plot>
+          <plot word="Australia">15</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">535</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319511600000" actual="25 Oct 2011 03:00:00 GMT">
+          <plot word="Other">40</plot>
+          <plot word="Philippines">4</plot>
+          <plot word="Canada">16</plot>
+          <plot word="Singapore">6</plot>
+          <plot word="Germany">12</plot>
+          <plot word="New Zealand">6</plot>
+          <plot word="United Kingdom">34</plot>
+          <plot word="Australia">26</plot>
+          <plot word="South Africa">59</plot>
+          <plot word="United States">570</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319598000000" actual="26 Oct 2011 03:00:00 GMT">
+          <plot word="Other">35</plot>
+          <plot word="Philippines">4</plot>
+          <plot word="Canada">19</plot>
+          <plot word="Singapore">1</plot>
+          <plot word="Germany">2</plot>
+          <plot word="New Zealand">5</plot>
+          <plot word="United Kingdom">25</plot>
+          <plot word="Australia">32</plot>
+          <plot word="South Africa">10</plot>
+          <plot word="United States">533</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319684400000" actual="27 Oct 2011 03:00:00 GMT">
+          <plot word="Other">32</plot>
+          <plot word="Philippines">7</plot>
+          <plot word="Canada">26</plot>
+          <plot word="Singapore">1</plot>
+          <plot word="Germany">8</plot>
+          <plot word="New Zealand">5</plot>
+          <plot word="United Kingdom">20</plot>
+          <plot word="Australia">28</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">527</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319770800000" actual="28 Oct 2011 03:00:00 GMT">
+          <plot word="Other">30</plot>
+          <plot word="Philippines">8</plot>
+          <plot word="Canada">19</plot>
+          <plot word="Singapore">6</plot>
+          <plot word="Germany">11</plot>
+          <plot word="New Zealand">11</plot>
+          <plot word="United Kingdom">22</plot>
+          <plot word="Australia">15</plot>
+          <plot word="South Africa">3</plot>
+          <plot word="United States">680</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319857200000" actual="29 Oct 2011 03:00:00 GMT">
+          <plot word="Other">25</plot>
+          <plot word="Philippines">8</plot>
+          <plot word="Canada">15</plot>
+          <plot word="Singapore">4</plot>
+          <plot word="Germany">4</plot>
+          <plot word="New Zealand">9</plot>
+          <plot word="United Kingdom">24</plot>
+          <plot word="Australia">15</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">454</plot>
+        </dataPoint>
+        <dataPoint timestamp="1319943600000" actual="30 Oct 2011 03:00:00 GMT">
+          <plot word="Other">29</plot>
+          <plot word="Philippines">5</plot>
+          <plot word="Canada">11</plot>
+          <plot word="Singapore">14</plot>
+          <plot word="Germany">5</plot>
+          <plot word="New Zealand">5</plot>
+          <plot word="United Kingdom">24</plot>
+          <plot word="Australia">13</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">560</plot>
+        </dataPoint>
+        <dataPoint timestamp="1320030000000" actual="31 Oct 2011 03:00:00 GMT">
+          <plot word="Other">0</plot>
+          <plot word="Philippines">0</plot>
+          <plot word="Canada">0</plot>
+          <plot word="Singapore">0</plot>
+          <plot word="Germany">0</plot>
+          <plot word="New Zealand">0</plot>
+          <plot word="United Kingdom">0</plot>
+          <plot word="Australia">0</plot>
+          <plot word="South Africa">0</plot>
+          <plot word="United States">5</plot>
+        </dataPoint>
+      </graphData>
+      <status>complete</status>
+    </dataitem>
+  </dataitems>
+</widgetOutput>
