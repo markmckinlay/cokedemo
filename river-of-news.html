@@ -1,16 +1,15 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Topic List Demo (mmckinlay)</title>
+		<title>Topic Trends Demo (Coke Zero)</title>
         <script type="text/javascript" charset="utf-8" src="my-radian6.js"></script>
         <script type="text/javascript">
 			var req;
 			function doGet() {
-				//alert("doGet");
 				req = new XMLHttpRequest();
 				req.onreadystatechange = processReqChange;
 				//req.open("GET", "http://localhost/~mmckinlay/radian6/topics.xml", true);
-				req.open("GET", "topic_list.xml", true);
+				req.open("GET", "coke_facebook_river.xml", true);
 				req.setRequestHeader("auth_user", "mmckinlay@modelmetrics.com");
 				req.setRequestHeader("auth_pass", "75db39324a88c42d9ff944f9a86d0141");
 				req.send();				
@@ -23,7 +22,7 @@
 			        if (req.status == 200) {
 						//alert("GOT IT");
 						var xmlDoc = req.responseXML;
-						doTopicList(xmlDoc);
+						doTopicTrends(xmlDoc);
 						//var name = xmlDoc.getElementsByTagName("name")[0];
 						//var search = xmlDoc.getElementsByTagName("search")[0];
 						//document.getElementById("display_name").innerHTML = name.firstChild.nodeValue;
@@ -35,16 +34,28 @@
 			    }
 			}
 			
-			function doTopicList(xmlDoc) {
+			function doTopicTrends(xmlDoc) {
 				
-				var tl = new TopicList();
-				tl.loadFromXml(xmlDoc);
+				var alist = new ArticleList();
+				alist.loadFromXml(xmlDoc);
+				var articles = alist.articles;
 				var mydisplay = document.getElementById("mydisplay");
-				mydisplay.value = "Topics Found\n";
+				mydisplay.value = "Articles Found. total=" + articles.length + "\n";
 				
-				for (var i=0; i<tl.topics.length; i++) {
-					topic = tl.topics[i]; // Topic object 
-					mydisplay.value += "Topic Name: " + topic.name + " Id: " + topic.id + "\n";
+				for (var i=0; i<articles.length; i++) {
+					article = articles[i]; // Article object
+					mydisplay.value += "Article ID: " + article.id + "\n" +
+										" headline: " + article.headline + "\n" +
+										" author:" + article.author + "\n" +
+										" recipient:" + article.recipient + "\n" +
+										" content:" + article.content + "\n" +
+										" source:" + article.source + "\n" +
+										" host:" + article.host + "\n" +
+										" url:" + article.url + "\n" +
+										" media_provider:" + article.media_provider + "\n" +
+										" media_type_id:" + article.media_type_id + "\n" +
+										" publish_date:" + article.publish_date +  "\n" +
+										" harvest_date:" + article.harvest_date + "\n" + "\n";
 				}
 			}
 		</script>

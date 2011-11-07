@@ -77,20 +77,22 @@ function loadTopicList(xmlDoc) {
 	var topicFilters = xmlDoc.getElementsByTagName("topicFilter");
 	for (var i=0; i<topicFilters.length; i++) {
 		var topic = new Topic();
-		this.topics.push(topic);
 		var children = topicFilters[i].childNodes;
 		for (var j=0; j<children.length; j++) {
-			var child = children[j];
-			if (child.nodeType == 1) {
-				// We only load selected properties
-				if (child.nodeName == "name") {
-					topic.name = child.firstChild.nodeValue;
-				} else if (child.nodeName == "topicFilterId") {
-					topic.id = child.firstChild.nodeValue;
-				}
+			if (children[j].nodeType == 1) {
+				loadTopic(children[j], topic)
 			}
 		}
+		this.topics.push(topic);
 	}
+}
+function loadTopic(node, topic) {
+	if (node.nodeName == "name") {
+		topic.name = node.firstChild.nodeValue;
+	} else if (node.nodeName == "topicFilterId") {
+		topic.id = node.firstChild.nodeValue;
+	}
+	
 }
 
 /**
@@ -132,28 +134,103 @@ function loadTopicAnalysis(xmlDoc) {
 	var dataitems = xmlDoc.getElementsByTagName("dataitem");
 	for (var i=0; i<dataitems.length; i++) {
 		var datum = new Datum();
+		this.data.push(datum);
 		datum.color = dataitems[i].attributes.getNamedItem("colour").nodeValue;
 		var children = dataitems[i].childNodes;
 		for (var j=0; j<children.length; j++) {
 			if (children[j].nodeType == 1) {
-				if (children[j].nodeName == "value") {
-					var  value_children = children[j].childNodes;
-					for (var k=0; k<value_children.length; k++) {
-						var vc = value_children[k];
-						if (vc.nodeType == 1) {
-							if (vc.nodeName == "count") {
-								datum.value = parseInt(vc.firstChild.nodeValue);
-							} else if (vc.nodeName == "label") {
-								datum.label = vc.firstChild.nodeValue;
-							}
-						}
-					}
-				} else if (children[j].nodeName == "name") {
-					datum.name = children[j].firstChild.nodeValue;
-				}				
+				loadTopicAnalysisDatum(children[j], datum);
 			}
 		}
-		this.data.push(datum);
+	}
+}
+function loadTopicAnalysisDatum(node, datum) {
+	if (node.nodeName == "value") {
+		var  value_children = node.childNodes;
+		for (var k=0; k<value_children.length; k++) {
+			var vc = value_children[k];
+			if (vc.nodeType == 1) {
+				if (vc.nodeName == "count") {
+					datum.value = parseInt(vc.firstChild.nodeValue);
+				} else if (vc.nodeName == "label") {
+					datum.label = vc.firstChild.nodeValue;
+				}
+			}
+		}
+	} else if (node.nodeName == "name") {
+		datum.name = node.firstChild.nodeValue;
+	}				
+}
+
+/**
+ * ArticleList contains a list of Articles
+ */
+function ArticleList() {
+	this.loadFromXml = loadArticleList;
+	this.articles = [];
+}
+
+function Article() {
+	this.id = 0;
+	this.headline = "";
+	this.author = "";
+	this.recipient = "";
+	this.content = "";
+	this.source = "";
+	this.host = "";
+	this.url = "";
+	this.media_provider = "";
+	this.media_type_id = 0;
+	this.publish_date = 0;
+	this.harvest_date = 0;
+	
+}
+
+function loadArticleList(xmlDoc) {
+	var articles = xmlDoc.getElementsByTagName("article");
+	for (var i=0; i<articles.length; i++) {
+		var article = new Article();
+		var id = articles[i].attributes.getNamedItem("ID").nodeValue;
+		article.id = id;
+		var children = articles[i].childNodes;
+		for (var j=0; j<children.length; j++) {
+			if (children[j].nodeType == 1) {
+				loadArticle(children[j], article);
+			}
+		}
+		this.articles.push(article);
 	}
 }
 
+function loadArticle(node, article) {
+	if (node.nodeName == "source") {
+		article.source = node.firstChild.nodeValue;
+	} else if (node.nodeName == "host") {
+		article.host = node.firstChild.nodeValue;
+	} else if (node.nodeName == "article_url") {
+		article.url = node.firstChild.nodeValue;
+	} else if (node.nodeName == "media_provider") {
+		article.media_provider = node.firstChild.nodeValue;
+	} else if (node.nodeName == "media_type_id") {
+		article.media_type_id = node.firstChild.nodeValue;
+	} else if (node.nodeName == "publish_date") {
+		article.publish_date = node.attributes.getNamedItem("epoch").nodeValue;
+	} else if (node.nodeName == "harvest_date") {
+		article.harvest_date = node.attributes.getNamedItem("epoch").nodeValue;
+	} else if (node.nodeName == "headline") {
+		article.headline = node.firstChild.nodeValue;
+	} else if (node.nodeName == "author") {
+		article.author = node.firstChild.nodeValue;
+	} else if (node.nodeName == "recipient") {
+		article.recipient = node.firstChild.nodeValue;
+	} else if (node.nodeName == "content") {
+		article.content = node.firstChild.nodeValue;
+	} else if (node.nodeName == "description") {
+		var children = node.childNodes;
+		for (var j=0; j<children.length; j++) {
+			if (children[j].nodeType == 1) {
+				loadArticle(children[j], article);
+			}
+		}
+	}
+}
